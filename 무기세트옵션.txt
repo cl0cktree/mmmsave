@@ -1,0 +1,7 @@
+Mouse.Item.Bonus = 10
+Mouse.Item.BonusStrength = 25
+Mouse.Item.Bonus2 = 46
+
+Mouse.Item.Bonus = 22
+Mouse.Item.BonusStrength = 25
+Mouse.Item.Bonus2 = 41
