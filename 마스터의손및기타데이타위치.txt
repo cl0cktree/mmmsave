@@ -9,6 +9,11 @@
 부여2 드래곤 옵션 - Mouse.Item.Bonus2 = 46
 부여2 피닉스 옵션 - Mouse.Item.Bonus2 = 50
 부여2 대양의 옵션 - Mouse.Item.Bonus2 = 66
+부여2 폭풍의(바람저항20+쉴딩) 옵션 - Mouse.Item.Bonus2 = 69
+부여2 워터워킹 옵션 - Mouse.Item.Bonus2 = 71
+부여2 피더폴링 옵션 - Mouse.Item.Bonus2 = 72
+
+부여2 면역 옵션(병18, 미침19, 마비20, 독21, 잠22, 돌23) - Mouse.Item.Bonus2 = 18~23
 
 부여2 병면역 옵션 - Mouse.Item.Bonus2 = 18
 부여2 미침면역 옵션 - Mouse.Item.Bonus2 = 19
@@ -17,7 +22,18 @@
 부여2 잠면역 옵션 - Mouse.Item.Bonus2 = 22
 부여2 돌면역 옵션 - Mouse.Item.Bonus2 = 23
 
-부여2 각 마법 원소 옵션(공기마법 26, 흑마법 28, 땅마법 29, 불마법 30, 물마법 34) - Mouse.Item.Bonus2 = 26~34
+부여2 각 마법 원소 옵션(공기마법 26, 몸마법 27, 흑마법 28, 땅마법 29, 불마법 30, 빛마법 31, 정신마법 32, 영혼마법 33, 물마법 34) - Mouse.Item.Bonus2 = 26~34
+
+부여2 공기마법 옵션 - Mouse.Item.Bonus2 = 26
+부여2 몸마법 옵션 - Mouse.Item.Bonus2 = 27
+부여2 흑마법 옵션 - Mouse.Item.Bonus2 = 28
+부여2 땅마법 옵션 - Mouse.Item.Bonus2 = 29
+부여2 불마법 옵션 - Mouse.Item.Bonus2 = 30
+부여2 빛마법 옵션 - Mouse.Item.Bonus2 = 31
+부여2 정신마법 옵션 - Mouse.Item.Bonus2 = 32
+부여2 영혼마법 옵션 - Mouse.Item.Bonus2 = 33
+부여2 물마법 옵션 - Mouse.Item.Bonus2 = 34
+
 
 
 부여1의 경우 옵션과 수치가 세트로 적용되므로 엔터를 치고 한번에 두줄로 두가지 명령을 같이 줄 것.

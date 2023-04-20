@@ -1,3 +1,0 @@
-
-
-Party[3].Class = const.Class.Cleric
