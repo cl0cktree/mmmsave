@@ -3,6 +3,30 @@
 모건 - 2034 [evt.GiveItem(1, 0, 2034)]
 마스터의 손 - 1313 [evt.GiveItem(1, 0, 1313)]
 
+
+부여1의 경우 옵션과 수치가 세트로 적용되므로 엔터를 치고 한번에 두줄로 두가지 명령을 같이 줄 것.
+
+부여1 체력 옵션 - Mouse.Item.Bonus = 8
+부여1 마력 옵션 - Mouse.Item.Bonus = 9
+부여1 방어력 옵션 - Mouse.Item.Bonus = 10
+
+부여1 화염저항 옵션 - Mouse.Item.Bonus = 11
+부여1 공기저항 옵션 - Mouse.Item.Bonus = 12
+부여1 얼음저항 옵션 - Mouse.Item.Bonus = 13
+부여1 대지저항 옵션 - Mouse.Item.Bonus = 14
+부여1 정신저항 옵션 - Mouse.Item.Bonus = 15
+부여1 육체저항 옵션 - Mouse.Item.Bonus = 16
+
+부여1 포션기술 옵션 - Mouse.Item.Bonus = 17
+부여1 훔치기술 옵션 - Mouse.Item.Bonus = 18
+
+부여1 한무기술 옵션 - Mouse.Item.Bonus = 22
+부여1 회피기술 옵션 - Mouse.Item.Bonus = 23
+부여1 맨손기술 옵션 - Mouse.Item.Bonus = 24
+
+부여1 옵션의 수치 - Mouse.Item.BonusStrength = 60
+
+
 부여2 독뎀(12뎀) 옵션 - Mouse.Item.Bonus2 = 15
 부여2 쉴딩(미사일반뎀만) 옵션 - Mouse.Item.Bonus2 = 36
 부여2 다크니스 옵션 - Mouse.Item.Bonus2 = 41
@@ -34,18 +58,6 @@
 부여2 영혼마법 옵션 - Mouse.Item.Bonus2 = 33
 부여2 물마법 옵션 - Mouse.Item.Bonus2 = 34
 
-
-
-부여1의 경우 옵션과 수치가 세트로 적용되므로 엔터를 치고 한번에 두줄로 두가지 명령을 같이 줄 것.
-
-부여1 방어력 옵션 - Mouse.Item.Bonus = 10
-부여1 체력 옵션 - Mouse.Item.Bonus = 8
-부여1 마력 옵션 - Mouse.Item.Bonus = 9
-부여1 한무기술 옵션 - Mouse.Item.Bonus = 22
-부여1 회피기술 옵션 - Mouse.Item.Bonus = 23
-부여1 맨손기술 옵션 - Mouse.Item.Bonus = 24
-
-부여1 옵션의 수치 - Mouse.Item.BonusStrength = 60
 
 기타 MM6 관련
  - 아이템 총 넘버는 1603~2200까지 임.
