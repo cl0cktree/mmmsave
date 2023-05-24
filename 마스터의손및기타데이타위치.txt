@@ -19,17 +19,30 @@
 
 부여1 포션기술 옵션 - Mouse.Item.Bonus = 17
 부여1 훔치기술 옵션 - Mouse.Item.Bonus = 18
+부여1 락픽기술 옵션 - Mouse.Item.Bonus = 19
+부여1 아이템기술 옵션 - Mouse.Item.Bonus = 20
+부여1 몬스터기술 옵션 - Mouse.Item.Bonus = 21
 
 부여1 한무기술 옵션 - Mouse.Item.Bonus = 22
 부여1 회피기술 옵션 - Mouse.Item.Bonus = 23
 부여1 맨손기술 옵션 - Mouse.Item.Bonus = 24
 
+부여1 그레이트마이트? 옵션 - Mouse.Item.Bonus = 25 (적용 안됨)
+부여1 프로텍트 옵션 - Mouse.Item.Bonus = 26 (적용 안됨)
+부여1 에러 - Mouse.Item.Bonus = 27 부터
+
+
 부여1 옵션의 수치 - Mouse.Item.BonusStrength = 60
+(각 저항에 이문이 붙으려면 99999 이상 수치 조정할 것 - 단, 스탯에 이뮨으로 표기 되어도 소량의 데미지는 들어옴.)
 
 
+부여2 프로텍트 옵션 - Mouse.Item.Bonus2 = 1
+부여2 신의 옵션 - Mouse.Item.Bonus2 = 2
+부여2 카네기(폭발) 옵션 - Mouse.Item.Bonus2 = 3
 부여2 독뎀(12뎀) 옵션 - Mouse.Item.Bonus2 = 15
 부여2 쉴딩(미사일반뎀만) 옵션 - Mouse.Item.Bonus2 = 36
 부여2 다크니스 옵션 - Mouse.Item.Bonus2 = 41
+부여2 둠 옵션 - Mouse.Item.Bonus2 = 42
 부여2 드래곤 옵션 - Mouse.Item.Bonus2 = 46
 부여2 피닉스 옵션 - Mouse.Item.Bonus2 = 50
 부여2 대양의 옵션 - Mouse.Item.Bonus2 = 66
