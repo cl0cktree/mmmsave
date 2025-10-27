@@ -1,0 +1,87 @@
+귀네비어 - 2032 [evt.GiveItem(1, 0, 2032)]
+이그레인 - 2033 [evt.GiveItem(1, 0, 2033)]
+모건 - 2034 [evt.GiveItem(1, 0, 2034)]
+마스터의 손 - 1313 [evt.GiveItem(1, 0, 1313)]
+
+스텔라보우(일반 활 중 최고) - 1648 [evt.GiveItem(1, 0, 1648)]
+
+
+부여1의 경우 옵션과 수치가 세트로 적용되므로 엔터를 치고 한번에 두줄로 두가지 명령을 같이 줄 것.
+
+부여1 체력 옵션 - Mouse.Item.Bonus = 8
+부여1 마력 옵션 - Mouse.Item.Bonus = 9
+부여1 방어력 옵션 - Mouse.Item.Bonus = 10
+
+부여1 화염저항 옵션 - Mouse.Item.Bonus = 11
+부여1 공기저항 옵션 - Mouse.Item.Bonus = 12
+부여1 얼음저항 옵션 - Mouse.Item.Bonus = 13
+부여1 대지저항 옵션 - Mouse.Item.Bonus = 14
+부여1 정신저항 옵션 - Mouse.Item.Bonus = 15
+부여1 육체저항 옵션 - Mouse.Item.Bonus = 16
+
+부여1 포션기술 옵션 - Mouse.Item.Bonus = 17
+부여1 훔치기술 옵션 - Mouse.Item.Bonus = 18
+부여1 락픽기술 옵션 - Mouse.Item.Bonus = 19
+부여1 아이템기술 옵션 - Mouse.Item.Bonus = 20
+부여1 몬스터기술 옵션 - Mouse.Item.Bonus = 21
+
+부여1 한무기술 옵션 - Mouse.Item.Bonus = 22
+부여1 회피기술 옵션 - Mouse.Item.Bonus = 23
+부여1 맨손기술 옵션 - Mouse.Item.Bonus = 24
+
+부여1 그레이트마이트? 옵션 - Mouse.Item.Bonus = 25 (적용 안됨)
+부여1 프로텍트 옵션 - Mouse.Item.Bonus = 26 (적용 안됨)
+부여1 에러 - Mouse.Item.Bonus = 27 부터
+
+
+부여1 옵션의 수치 - Mouse.Item.BonusStrength = 60
+(각 저항에 이문이 붙으려면 99999 이상 수치 조정할 것 - 단, 스탯에 이뮨으로 표기 되어도 소량의 데미지는 들어옴.)
+
+
+부여2 프로텍트 옵션 - Mouse.Item.Bonus2 = 1
+부여2 신의 옵션 - Mouse.Item.Bonus2 = 2
+부여2 카네기(폭발) 옵션 - Mouse.Item.Bonus2 = 3
+부여2 독뎀(12뎀) 옵션 - Mouse.Item.Bonus2 = 15
+부여2 쉴딩(미사일반뎀만) 옵션 - Mouse.Item.Bonus2 = 36
+부여2 다크니스 옵션 - Mouse.Item.Bonus2 = 41
+부여2 둠 옵션 - Mouse.Item.Bonus2 = 42
+부여2 드래곤 옵션 - Mouse.Item.Bonus2 = 46
+부여2 피닉스 옵션 - Mouse.Item.Bonus2 = 50
+부여2 대양의 옵션 - Mouse.Item.Bonus2 = 66
+부여2 폭풍의(바람저항20+쉴딩) 옵션 - Mouse.Item.Bonus2 = 69
+부여2 워터워킹 옵션 - Mouse.Item.Bonus2 = 71
+부여2 피더폴링 옵션 - Mouse.Item.Bonus2 = 72
+
+부여2 면역 옵션(병18, 미침19, 마비20, 독21, 잠22, 돌23) - Mouse.Item.Bonus2 = 18~23
+
+부여2 병면역 옵션 - Mouse.Item.Bonus2 = 18
+부여2 미침면역 옵션 - Mouse.Item.Bonus2 = 19
+부여2 마비면역 옵션 - Mouse.Item.Bonus2 = 20
+부여2 독면역 옵션 - Mouse.Item.Bonus2 = 21
+부여2 잠면역 옵션 - Mouse.Item.Bonus2 = 22
+부여2 돌면역 옵션 - Mouse.Item.Bonus2 = 23
+
+부여2 각 마법 원소 옵션(공기마법 26, 몸마법 27, 흑마법 28, 땅마법 29, 불마법 30, 빛마법 31, 정신마법 32, 영혼마법 33, 물마법 34) - Mouse.Item.Bonus2 = 26~34
+
+부여2 공기마법 옵션 - Mouse.Item.Bonus2 = 26
+부여2 몸마법 옵션 - Mouse.Item.Bonus2 = 27
+부여2 흑마법 옵션 - Mouse.Item.Bonus2 = 28
+부여2 땅마법 옵션 - Mouse.Item.Bonus2 = 29
+부여2 불마법 옵션 - Mouse.Item.Bonus2 = 30
+부여2 빛마법 옵션 - Mouse.Item.Bonus2 = 31
+부여2 정신마법 옵션 - Mouse.Item.Bonus2 = 32
+부여2 영혼마법 옵션 - Mouse.Item.Bonus2 = 33
+부여2 물마법 옵션 - Mouse.Item.Bonus2 = 34
+
+
+기타 MM6 관련
+ - 아이템 총 넘버는 1603~2200까지 임.
+ - 레어/유니크/스페셜은 2019 부터 시작.
+
+기타 MM7 관련
+ - 아이템 총 넘버는 803~1602까지 임.
+ - 레어/유니크/스페셜은 1301 부터 시작.
+
+기타 MM8 관련
+ - 아이템 총 넘버는 1~802까지 임.
+ - 레어/유니크/스페셜은 0500 부터 시작.
