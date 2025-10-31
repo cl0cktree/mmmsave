@@ -1,7 +1,13 @@
 귀네비어 - 2032 [evt.GiveItem(1, 0, 2032)]
 이그레인 - 2033 [evt.GiveItem(1, 0, 2033)]
 모건 - 2034 [evt.GiveItem(1, 0, 2034)]
+
+총독의 사슬갑 - 1306 [evt.GiveItem(1, 0, 1306)]
+요루바 - 1307 [evt.GiveItem(1, 0, 1307)]
+율리시스 - 1312 [evt.GiveItem(1, 0, 1312)]
 마스터의 손 - 1313 [evt.GiveItem(1, 0, 1313)]
+지배의 반지 - 1315 [evt.GiveItem(1, 0, 1315)]
+에스릭의 지팡이 - 1317 [evt.GiveItem(1, 0, 1317)]
 
 스텔라보우(일반 활 중 최고) - 1648 [evt.GiveItem(1, 0, 1648)]
 
