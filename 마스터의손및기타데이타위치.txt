@@ -14,6 +14,13 @@
 
 부여1의 경우 옵션과 수치가 세트로 적용되므로 엔터를 치고 한번에 두줄로 두가지 명령을 같이 줄 것.
 
+부여1 근력 옵션 - Mouse.Item.Bonus = 1
+부여1 지성 옵션 - Mouse.Item.Bonus = 2
+부여1 인성 옵션 - Mouse.Item.Bonus = 3
+부여1 지구력 옵션 - Mouse.Item.Bonus = 4
+부여1 정확성 옵션 - Mouse.Item.Bonus = 5
+부여1 민첩성 옵션 - Mouse.Item.Bonus = 6
+부여1 행운 옵션 - Mouse.Item.Bonus = 7
 부여1 체력 옵션 - Mouse.Item.Bonus = 8
 부여1 마력 옵션 - Mouse.Item.Bonus = 9
 부여1 방어력 옵션 - Mouse.Item.Bonus = 10
